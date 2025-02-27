@@ -11,7 +11,8 @@
     },
     "depends": [
         "JSON::Fast",
-        "LWP::Simple"
+        "LWP::Simple",
+        "IO::Socket::SSL"
     ],
     "source-url": "git://github.com/yourusername/cycladic-quiz.git"
 }
