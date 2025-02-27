@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cycladic Quiz</title>
+    <script type="application/json" id="cycladicObjects" src="data/only-cycladic-objects.json"></script>
+    <script>
+
+
+            function getRandomKey(obj) {
+                const keys = Object.keys(obj);
+                return keys[Math.floor(Math.random() * keys.length)];
+            }
+
+            function presentQuiz() {
+                const randomKey = getRandomKey(cycladicObjects);
+                const selectedObject = cycladicObjects[randomKey];
+                const imageUrl = selectedObject.primaryImage;
+                const periodOptions = Object.values(cycladicObjects).map(item => item.period);
+
+                // Display the image
+                const imgElement = document.createElement('img');
+                imgElement.src = imageUrl;
+                document.body.appendChild(imgElement);
+
+                // Create multiple choice menu
+                const formElement = document.createElement('form');
+                periodOptions.forEach(option => {
+                    const label = document.createElement('label');
+                    const radio = document.createElement('input');
+                    radio.type = 'radio';
+                    radio.name = 'period';
+                    radio.value = option;
+                    label.appendChild(radio);
+                    label.appendChild(document.createTextNode(option));
+                    formElement.appendChild(label);
+                    formElement.appendChild(document.createElement('br'));
+                });
+                document.body.appendChild(formElement);
+            }
+
+            document.addEventListener('DOMContentLoaded', (event) => {
+                fetchJSON();
+                console.log(cycladicObjects);
+                if (cycladicObjects) {
+                    console.log("Presenting")
+                    presentQuiz();
+                }
+            });
+    </script>
+</head>
+<body>
+    <h1>Cycladic Quiz</h1>
+</body>
+</html>
