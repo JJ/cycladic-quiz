@@ -6,7 +6,7 @@
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/216807.jpg",
     "classification": "Stone Sculpture",
     "title": "Marble female figure",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "region": "",
     "objectURL": "https://www.metmuseum.org/art/collection/search/255594",
     "objectDate": "2700–2500 BCE",
@@ -24,7 +24,7 @@
     "objectURL": "https://www.metmuseum.org/art/collection/search/255463",
     "objectDate": "ca. 3200–2200 BCE",
     "department": "Greek and Roman Art",
-    "period": "Early Cycladic I–II",
+    "period": "Cicládico temprano",
     "objectName": "Bowl",
     "locale": "",
     "culture": "Cycladic"
@@ -42,11 +42,11 @@
     "classification": "Miscellaneous-Stone Vases",
     "objectDate": "ca. 2800–2500 BCE",
     "objectURL": "https://www.metmuseum.org/art/collection/search/631232",
-    "period": "Early Cycladic II"
+    "period": "Keros-Syros"
   },
   {
     "department": "Greek and Roman Art",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "region": "",
     "objectName": "Statuette of a woman",
     "title": "Marble female figure",
@@ -70,24 +70,9 @@
     "locale": "",
     "objectName": "Palette",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-35874-002.jpg",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "medium": "Marble",
     "objectURL": "https://www.metmuseum.org/art/collection/search/643579"
-  },
-  {
-    "objectURL": "https://www.metmuseum.org/art/collection/search/248515",
-    "city": "",
-    "region": "",
-    "objectName": "Kalathos",
-    "locale": "",
-    "department": "Greek and Roman Art",
-    "classification": "Vases",
-    "medium": "Terracotta",
-    "objectDate": "ca. 1550–1425 BCE",
-    "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256400.jpg",
-    "title": "Terracotta kalathos (vase with flaring lip)",
-    "culture": "Cycladic",
-    "period": "Late Cycladic I"
   },
   {
     "culture": "Cycladic",
@@ -95,7 +80,7 @@
     "title": "Marble palette",
     "objectURL": "https://www.metmuseum.org/art/collection/search/256263",
     "city": "",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "region": "",
     "department": "Greek and Roman Art",
     "locale": "",
@@ -113,7 +98,7 @@
     "region": "",
     "objectDate": "3200–2700 BCE",
     "objectName": "Statuette of a woman",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "classification": "Stone Sculpture",
     "city": "",
     "department": "Greek and Roman Art",
@@ -129,7 +114,7 @@
     "classification": "Stone Sculpture",
     "medium": "Marble",
     "objectDate": "2600–2400 BCE",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "region": "",
     "title": "Marble female figure",
     "objectName": "Statuette of a woman"
@@ -137,7 +122,7 @@
   {
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP322100.jpg",
     "region": "",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "medium": "Terracotta",
     "objectURL": "https://www.metmuseum.org/art/collection/search/632258",
     "objectName": "Box of a pyxis",
@@ -154,7 +139,7 @@
     "objectURL": "https://www.metmuseum.org/art/collection/search/254587",
     "objectName": "Statuette of a seated harp player",
     "department": "Greek and Roman Art",
-    "period": "Late Early Cycladic I–Early Cycladic II",
+    "period": "Cicládico temprano",
     "locale": "",
     "culture": "Cycladic",
     "medium": "Marble",
@@ -168,7 +153,7 @@
     "objectURL": "https://www.metmuseum.org/art/collection/search/255290",
     "objectDate": "2700–2500 BCE",
     "culture": "Cycladic",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "medium": "Marble",
     "title": "Head and neck from a marble figure",
     "classification": "Stone Sculpture",
@@ -186,7 +171,7 @@
     "department": "Greek and Roman Art",
     "objectURL": "https://www.metmuseum.org/art/collection/search/255055",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/169414.jpg",
-    "period": "Early Cycladic I or II",
+    "period": "Cicládico temprano",
     "region": "",
     "locale": "",
     "culture": "Cycladic",
@@ -195,7 +180,7 @@
     "title": "Marble leg from a statuette"
   },
   {
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "region": "",
     "culture": "Cycladic",
     "objectURL": "https://www.metmuseum.org/art/collection/search/255280",
@@ -213,7 +198,7 @@
     "department": "Greek and Roman Art",
     "locale": "",
     "city": "",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "medium": "Marble",
     "classification": "Stone Sculpture",
     "title": "Marble female figure",
@@ -230,7 +215,7 @@
     "medium": "Marble",
     "region": "",
     "objectURL": "https://www.metmuseum.org/art/collection/search/256286",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "classification": "Miscellaneous-Stone Vases",
     "locale": "",
     "culture": "Cycladic",
@@ -241,7 +226,7 @@
   },
   {
     "department": "Greek and Roman Art",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "locale": "",
     "region": "",
     "medium": "Marble",
@@ -264,7 +249,7 @@
     "medium": "Marble",
     "objectURL": "https://www.metmuseum.org/art/collection/search/329997",
     "classification": "Stone Sculpture",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "objectDate": "2700–2300 B.C",
     "objectName": "Head",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/KN214c.jpg"
@@ -281,7 +266,7 @@
     "objectDate": "2700–2500 BCE",
     "department": "Greek and Roman Art",
     "title": "Marble head from the figure of a woman",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "region": ""
   },
   {
@@ -291,7 +276,7 @@
     "title": "Marble vase with high foot and four lug handles",
     "objectURL": "https://www.metmuseum.org/art/collection/search/253500",
     "objectDate": "ca. 3000–2800 BCE",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "region": "",
     "locale": "",
     "classification": "Miscellaneous-Stone Vases",
@@ -308,7 +293,7 @@
     "objectDate": "ca. 2700–2400 BCE",
     "city": "",
     "title": "Shell pestle/polisher",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "objectURL": "https://www.metmuseum.org/art/collection/search/631230",
     "objectName": "Pestle/polisher",
     "locale": "",
@@ -320,7 +305,7 @@
     "objectDate": "ca. 2700–2300 BCE",
     "department": "Greek and Roman Art",
     "locale": "",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "city": "",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-36475-002.jpg",
     "region": "",
@@ -340,7 +325,7 @@
     "classification": "Gold and Silver",
     "title": "Silver bowl",
     "culture": "Cycladic",
-    "period": "Early Cycladic I–II",
+    "period": "Cicládico temprano",
     "objectURL": "https://www.metmuseum.org/art/collection/search/254541",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DT257560.jpg"
   },
@@ -357,7 +342,7 @@
     "locale": "",
     "objectURL": "https://www.metmuseum.org/art/collection/search/255593",
     "department": "Greek and Roman Art",
-    "period": "Early Cycladic II"
+    "period": "Keros-Syros"
   },
   {
     "classification": "Vases",
@@ -372,12 +357,12 @@
     "region": "",
     "objectName": "Collared jar",
     "title": "Terracotta collared jar with four lug handles",
-    "period": "Early Cycladic I–II"
+    "period": "Cicládico temprano"
   },
   {
     "medium": "Marble",
     "title": "Marble lid of a spool pyxis",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "objectName": "Pyxis lid",
     "objectDate": "ca. 2700–2200 BCE",
     "city": "",
@@ -399,13 +384,13 @@
     "department": "Greek and Roman Art",
     "culture": "Cycladic",
     "objectURL": "https://www.metmuseum.org/art/collection/search/255339",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "region": "",
     "objectDate": "2300–2200 BCE",
     "title": "Upper part of a marble female figure"
   },
   {
-    "period": "Early Cycladic III–Middle Cycladic I",
+    "period": "Phylakopi",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP114350.jpg",
     "objectName": "Jug",
     "culture": "Cycladic",
@@ -423,7 +408,7 @@
     "region": "",
     "city": "",
     "objectName": "Jar",
-    "period": "Early Cycladic III–Middle Cycladic I",
+    "period": "Phylakopi",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP116325.jpg",
     "objectURL": "https://www.metmuseum.org/art/collection/search/256549",
     "medium": "Terracotta",
@@ -444,7 +429,7 @@
     "city": "",
     "title": "Terracotta kernos (vase for multiple offerings)",
     "locale": "",
-    "period": "Early Cycladic III–Middle Cycladic I",
+    "period": "Phylakopi",
     "medium": "Terracotta",
     "objectURL": "https://www.metmuseum.org/art/collection/search/256548",
     "region": ""
@@ -462,7 +447,7 @@
     "objectURL": "https://www.metmuseum.org/art/collection/search/255595",
     "objectDate": "2300–2200 BCE",
     "objectName": "Statuette of a woman",
-    "period": "Early Cycladic II"
+    "period": "Keros-Syros"
   },
   {
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP112968.jpg",
@@ -476,7 +461,7 @@
     "medium": "Marble",
     "locale": "",
     "objectURL": "https://www.metmuseum.org/art/collection/search/256896",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "objectDate": "ca. 2800–2700 BCE"
   },
   {
@@ -491,14 +476,14 @@
     "objectName": "Statuette of a man",
     "department": "Greek and Roman Art",
     "classification": "Stone Sculpture",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "title": "Marble male figure"
   },
   {
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/KN218.jpg",
     "region": "",
     "classification": "Stone Sculpture",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "city": "",
     "medium": "Marble",
     "locale": "",
@@ -514,7 +499,7 @@
     "classification": "Stone Sculpture",
     "objectDate": "ca. 3200–2700 BCE",
     "culture": "Cycladic",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "objectName": "statuette",
     "department": "Greek and Roman Art",
     "medium": "Marble",
@@ -529,7 +514,7 @@
     "objectDate": "ca. 3200–2800 BCE",
     "city": "",
     "objectURL": "https://www.metmuseum.org/art/collection/search/256227",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256403.jpg",
     "locale": "",
     "objectName": "Pyxis",
@@ -543,7 +528,7 @@
     "culture": "Cycladic",
     "city": "",
     "department": "Greek and Roman Art",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "objectURL": "https://www.metmuseum.org/art/collection/search/255591",
     "title": "Marble bowl with four flanges",
     "objectName": "Bowl with four flanges",
@@ -564,14 +549,14 @@
     "objectDate": "ca. 2700–2400 BCE",
     "title": "Shell pestle/polisher",
     "objectName": "Pestle/polisher",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "culture": "Cycladic",
     "classification": "Miscellaneous-Shell",
     "locale": ""
   },
   {
     "region": "",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "culture": "Cycladic",
     "objectName": "Bowl",
     "objectDate": "ca. 2700–2200 BCE",
@@ -597,7 +582,7 @@
     "region": "",
     "objectName": "Blade",
     "objectURL": "https://www.metmuseum.org/art/collection/search/632266",
-    "period": "Early Cycladic II"
+    "period": "Keros-Syros"
   },
   {
     "objectName": "Bowl",
@@ -612,7 +597,7 @@
     "objectURL": "https://www.metmuseum.org/art/collection/search/257424",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/268483.jpg",
     "city": "",
-    "period": "Early Cycladic II"
+    "period": "Keros-Syros"
   },
   {
     "locale": "",
@@ -627,7 +612,7 @@
     "medium": "Terracotta",
     "objectURL": "https://www.metmuseum.org/art/collection/search/257692",
     "city": "",
-    "period": "Early Cycladic II"
+    "period": "Keros-Syros"
   },
   {
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP260749.jpg",
@@ -640,13 +625,13 @@
     "objectURL": "https://www.metmuseum.org/art/collection/search/254533",
     "locale": "",
     "region": "",
-    "period": "Early Cycladic I",
+    "period": "Grotta-Pelos",
     "department": "Greek and Roman Art",
     "city": ""
   },
   {
     "department": "Greek and Roman Art",
-    "period": "Early Cycladic II",
+    "period": "Keros-Syros",
     "objectURL": "https://www.metmuseum.org/art/collection/search/256853",
     "city": "",
     "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256404.jpg",
