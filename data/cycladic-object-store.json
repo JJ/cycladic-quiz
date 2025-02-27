@@ -1,4 +1,5 @@
-{
+[
+  {
   "locale": "",
   "department": "Greek and Roman Art",
   "culture": "Cycladic",
@@ -12,7 +13,7 @@
   "objectURL": "https://www.metmuseum.org/art/collection/search/632284",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP322102.jpg",
   "period": "Neolithic"
-}
+},
 {
   "department": "Greek and Roman Art",
   "locale": "",
@@ -27,7 +28,7 @@
   "culture": "Cycladic",
   "city": "",
   "medium": "Marble"
-}
+},
 {
   "title": "Silver bowl",
   "region": "",
@@ -42,7 +43,7 @@
   "objectName": "Bowl",
   "locale": "",
   "culture": "Cycladic"
-}
+},
 {
   "culture": "Cycladic",
   "objectName": "Bowl",
@@ -57,7 +58,7 @@
   "objectDate": "ca. 2800–2500 BCE",
   "objectURL": "https://www.metmuseum.org/art/collection/search/631232",
   "period": "Early Cycladic II"
-}
+},
 {
   "department": "Greek and Roman Art",
   "period": "Early Cycladic II",
@@ -72,7 +73,7 @@
   "locale": "",
   "objectURL": "https://www.metmuseum.org/art/collection/search/255415",
   "objectDate": "2700–2600 BCE"
-}
+},
 {
   "title": "Marble palette",
   "region": "",
@@ -87,7 +88,7 @@
   "period": "Early Cycladic I",
   "medium": "Marble",
   "objectURL": "https://www.metmuseum.org/art/collection/search/643579"
-}
+},
 {
   "objectURL": "https://www.metmuseum.org/art/collection/search/248515",
   "city": "",
@@ -102,7 +103,7 @@
   "title": "Terracotta kalathos (vase with flaring lip)",
   "culture": "Cycladic",
   "period": "Late Cycladic I"
-}
+},
 {
   "culture": "Cycladic",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256404.jpg",
@@ -117,7 +118,7 @@
   "classification": "Miscellaneous-Stone",
   "medium": "Marble",
   "objectName": "Palette"
-}
+},
 {
   "medium": "Marble",
   "locale": "",
@@ -132,7 +133,7 @@
   "city": "",
   "department": "Greek and Roman Art",
   "culture": "Cycladic"
-}
+},
 {
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256411.jpg",
   "department": "Greek and Roman Art",
@@ -147,7 +148,7 @@
   "region": "",
   "title": "Marble female figure",
   "objectName": "Statuette of a woman"
-}
+},
 {
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP322100.jpg",
   "region": "",
@@ -162,7 +163,7 @@
   "objectDate": "ca. 3000–2800 BCE",
   "classification": "Vases",
   "city": ""
-}
+},
 {
   "city": "",
   "objectURL": "https://www.metmuseum.org/art/collection/search/254587",
@@ -177,7 +178,7 @@
   "region": "",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256380.jpg",
   "objectDate": "2800–2700 BCE"
-}
+},
 {
   "objectURL": "https://www.metmuseum.org/art/collection/search/255290",
   "objectDate": "2700–2500 BCE",
@@ -192,7 +193,7 @@
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/191012.jpg",
   "region": "",
   "locale": ""
-}
+},
 {
   "objectDate": "3200–2200 BCE",
   "city": "",
@@ -207,7 +208,7 @@
   "classification": "Stone Sculpture",
   "medium": "Marble",
   "title": "Marble leg from a statuette"
-}
+},
 {
   "period": "Early Cycladic II",
   "region": "",
@@ -222,7 +223,7 @@
   "objectDate": "2700–2500 BCE",
   "department": "Greek and Roman Art",
   "objectName": "Head from a figure of a woman"
-}
+},
 {
   "department": "Greek and Roman Art",
   "locale": "",
@@ -237,7 +238,7 @@
   "culture": "Cycladic",
   "objectURL": "https://www.metmuseum.org/art/collection/search/253423",
   "objectDate": "2700 – 2500"
-}
+},
 {
   "city": "",
   "title": "Marble spouted bowl",
@@ -252,7 +253,7 @@
   "department": "Greek and Roman Art",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256406.jpg",
   "objectDate": "ca. 2700–2200 BCE"
-}
+},
 {
   "department": "Greek and Roman Art",
   "period": "Early Cycladic II",
@@ -267,7 +268,7 @@
   "objectDate": "2700–2300 B.C",
   "objectURL": "https://www.metmuseum.org/art/collection/search/329996",
   "objectName": "Head"
-}
+},
 {
   "classification": "Miscellaneous-Stone",
   "culture": "Cycladic",
@@ -282,7 +283,7 @@
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP322103.jpg",
   "city": "",
   "title": "Group of 3 worked obsidian fragments and a raw obsidian lump"
-}
+},
 {
   "locale": "",
   "culture": "Cycladic",
@@ -297,7 +298,7 @@
   "objectDate": "2700–2300 B.C",
   "objectName": "Head",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/KN214c.jpg"
-}
+},
 {
   "locale": "",
   "medium": "Marble",
@@ -312,7 +313,7 @@
   "title": "Marble head from the figure of a woman",
   "period": "Early Cycladic II",
   "region": ""
-}
+},
 {
   "department": "Greek and Roman Art",
   "objectName": "Kandila",
@@ -327,7 +328,7 @@
   "culture": "Cycladic",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256408.jpg",
   "city": ""
-}
+},
 {
   "classification": "Miscellaneous-Shell",
   "region": "",
@@ -342,7 +343,7 @@
   "objectName": "Pestle/polisher",
   "locale": "",
   "culture": "Cycladic"
-}
+},
 {
   "classification": "Vases",
   "culture": "Cycladic",
@@ -357,7 +358,7 @@
   "title": "Fragment of a terracotta offering vessel",
   "medium": "Terracotta",
   "objectName": "Kernos fragment, receptacle"
-}
+},
 {
   "objectName": "Bowl",
   "department": "Greek and Roman Art",
@@ -372,7 +373,7 @@
   "period": "Early Cycladic I–II",
   "objectURL": "https://www.metmuseum.org/art/collection/search/254541",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DT257560.jpg"
-}
+},
 {
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-31288-001.jpg",
   "culture": "Cycladic",
@@ -387,7 +388,7 @@
   "objectURL": "https://www.metmuseum.org/art/collection/search/255593",
   "department": "Greek and Roman Art",
   "period": "Early Cycladic II"
-}
+},
 {
   "classification": "Vases",
   "locale": "",
@@ -402,7 +403,7 @@
   "objectName": "Collared jar",
   "title": "Terracotta collared jar with four lug handles",
   "period": "Early Cycladic I–II"
-}
+},
 {
   "medium": "Marble",
   "title": "Marble lid of a spool pyxis",
@@ -417,7 +418,7 @@
   "locale": "",
   "culture": "Cycladic",
   "department": "Greek and Roman Art"
-}
+},
 {
   "city": "",
   "medium": "Marble",
@@ -432,7 +433,7 @@
   "region": "",
   "objectDate": "2300–2200 BCE",
   "title": "Upper part of a marble female figure"
-}
+},
 {
   "period": "Early Cycladic III–Middle Cycladic I",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP114350.jpg",
@@ -447,7 +448,7 @@
   "objectDate": "ca. 2300–1900 BCE",
   "department": "Greek and Roman Art",
   "title": "Terracotta jug"
-}
+},
 {
   "region": "",
   "city": "",
@@ -462,7 +463,7 @@
   "title": "Terracotta jar",
   "locale": "",
   "objectDate": "ca. 2300–1900 BCE"
-}
+},
 {
   "culture": "Cycladic",
   "objectName": "Kernos",
@@ -477,7 +478,7 @@
   "medium": "Terracotta",
   "objectURL": "https://www.metmuseum.org/art/collection/search/256548",
   "region": ""
-}
+},
 {
   "locale": "",
   "medium": "Marble",
@@ -492,7 +493,7 @@
   "objectDate": "2300–2200 BCE",
   "objectName": "Statuette of a woman",
   "period": "Early Cycladic II"
-}
+},
 {
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP112968.jpg",
   "city": "",
@@ -507,7 +508,7 @@
   "objectURL": "https://www.metmuseum.org/art/collection/search/256896",
   "period": "Early Cycladic I",
   "objectDate": "ca. 2800–2700 BCE"
-}
+},
 {
   "culture": "Cycladic",
   "objectURL": "https://www.metmuseum.org/art/collection/search/255416",
@@ -522,7 +523,7 @@
   "classification": "Stone Sculpture",
   "period": "Early Cycladic II",
   "title": "Marble male figure"
-}
+},
 {
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/KN218.jpg",
   "region": "",
@@ -537,7 +538,7 @@
   "culture": "Cycladic",
   "department": "Greek and Roman Art",
   "objectName": "Head"
-}
+},
 {
   "title": "Marble female figure",
   "classification": "Stone Sculpture",
@@ -552,7 +553,7 @@
   "region": "",
   "objectURL": "https://www.metmuseum.org/art/collection/search/910528",
   "city": ""
-}
+},
 {
   "department": "Greek and Roman Art",
   "objectDate": "ca. 3200–2800 BCE",
@@ -567,7 +568,7 @@
   "classification": "Vases",
   "region": "",
   "culture": "Cycladic"
-}
+},
 {
   "culture": "Cycladic",
   "city": "",
@@ -582,7 +583,7 @@
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-31292-001.jpg",
   "region": "",
   "objectDate": "ca. 2700–2200 BCE"
-}
+},
 {
   "medium": "Spondylus shell (aragonite)",
   "region": "",
@@ -597,7 +598,7 @@
   "culture": "Cycladic",
   "classification": "Miscellaneous-Shell",
   "locale": ""
-}
+},
 {
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP256401.jpg",
   "region": "",
@@ -612,7 +613,7 @@
   "culture": "Cycladic",
   "title": "Marble female figure",
   "city": ""
-}
+},
 {
   "region": "",
   "period": "Early Cycladic II",
@@ -627,7 +628,7 @@
   "city": "",
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-30256-001.jpg",
   "objectURL": "https://www.metmuseum.org/art/collection/search/253424"
-}
+},
 {
   "medium": "Obsidian",
   "objectDate": "ca. 2700–2200 BCE",
@@ -642,7 +643,7 @@
   "objectName": "Blade",
   "objectURL": "https://www.metmuseum.org/art/collection/search/632266",
   "period": "Early Cycladic II"
-}
+},
 {
   "objectName": "Bowl",
   "department": "Greek and Roman Art",
@@ -657,7 +658,7 @@
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/268483.jpg",
   "city": "",
   "period": "Early Cycladic II"
-}
+},
 {
   "locale": "",
   "title": "Terracotta collared jar with four lug handles",
@@ -672,7 +673,7 @@
   "objectURL": "https://www.metmuseum.org/art/collection/search/257692",
   "city": "",
   "period": "Early Cycladic II"
-}
+},
 {
   "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP260749.jpg",
   "medium": "Marble",
@@ -687,7 +688,7 @@
   "period": "Early Cycladic I",
   "department": "Greek and Roman Art",
   "city": ""
-}
+},
 {
   "department": "Greek and Roman Art",
   "period": "Early Cycladic II",
@@ -703,3 +704,4 @@
   "culture": "Cycladic",
   "objectDate": "ca. 2700–2200 BCE"
 }
+]
