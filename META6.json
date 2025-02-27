@@ -1,0 +1,17 @@
+{
+    "name": "cycladic-quiz",
+    "version": "0.0.1",
+    "description": "A quiz application",
+    "authors": [
+        "Your Name <your.email@example.com>"
+    ],
+    "license": "Artistic-2.0",
+    "provides": {
+        "Cycladic::Quiz": "lib/Cycladic/Quiz.rakumod"
+    },
+    "depends": [
+        "JSON::Fast",
+        "LWP::Simple"
+    ],
+    "source-url": "git://github.com/yourusername/cycladic-quiz.git"
+}
