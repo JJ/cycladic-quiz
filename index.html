@@ -711,7 +711,7 @@
             const correctValue = selectedObject.period;
             const resultElement = document.getElementById('result');
             if (selectedValue === correctValue) {
-                resultElement.textContent = `✅ ¡Correcto! Se llama ${selectedObject.title}, un ${selectedObject.objectName} de ${selectedObject.medium} datado ${selectedObject.objectDate}. Más información en <a href='${selectedObject.objectURL}'>esta página del Met</a>`;
+                resultElement.innerHTML = `✅ ¡Correcto! Se llama <em>${selectedObject.title}</em>, un ${selectedObject.objectName} de ${selectedObject.medium} datado ${selectedObject.objectDate}. Más información en <a href='${selectedObject.objectURL}'>esta página del Met</a>`;
             } else {
                 resultElement.textContent = "¡Prueba de nuevo!";
             }
