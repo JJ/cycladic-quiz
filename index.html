@@ -696,6 +696,9 @@
             radio.type = 'radio';
             radio.name = 'period';
             radio.value = option;
+            radio.style.marginRight = '10px';
+            radio.style.transform = 'scale(1.5)';
+            label.style.fontSize = '1.5em';
             label.appendChild(radio);
             label.appendChild(document.createTextNode(option));
             formElement.appendChild(label);
@@ -706,15 +709,18 @@
         // add submit button
         const submitButton = document.createElement('button');
         submitButton.textContent = 'Enviar';
+        submitButton.style.fontSize = '1.5em';
+        submitButton.style.padding = '10px 20px';
         document.getElementById('submit').appendChild(submitButton);
         submitButton.onclick = function() {
             const selectedValue = document.querySelector('input[name="period"]:checked').value;
             const correctValue = selectedObject.period;
             const resultElement = document.getElementById('result');
+            resultElement.style.fontSize = '1.5em';
             if (selectedValue === correctValue) {
-                resultElement.innerHTML = `✅ ¡Correcto! Se llama <em>${selectedObject.title}</em>, un ${selectedObject.objectName} de ${selectedObject.medium} datado ${selectedObject.objectDate}. Más información en <a href='${selectedObject.objectURL}'>esta página del Met</a>`;
+          resultElement.innerHTML = `✅ ¡Correcto! Se llama <em>${selectedObject.title}</em>, un ${selectedObject.objectName} de ${selectedObject.medium} datado ${selectedObject.objectDate}. Más información en <a href='${selectedObject.objectURL}'>esta página del Met</a>`;
             } else {
-                resultElement.textContent = "¡Prueba de nuevo!";
+          resultElement.textContent = "¡Prueba de nuevo!";
             }
         };
     }
